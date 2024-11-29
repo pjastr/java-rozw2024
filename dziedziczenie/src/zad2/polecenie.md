@@ -1,0 +1,1 @@
+2.  Stwórz klasę bazową `Book` z prywatnym polem `title` oraz chronionym polem `author`. Stwórz klasę potomną `Ebook`, która dziedziczy po klasie `Book`. W klasie `Ebook` spróbuj zmienić modyfikator dostępu dla obu pól z klasy bazowej. Zastanów się, dlaczego jedno z pól pozwala na to, a drugie nie.
